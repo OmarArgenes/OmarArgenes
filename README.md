@@ -53,7 +53,7 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 ### 🏢 Current work at pirAMide Informatik
 
 > Source code for this work is private because it belongs to my employer and its clients.
-> The descriptions below cover my role and the type of work only.
+> The descriptions below cover my role and the type of work only. Detailed, public-safe write-ups: **[engineering-case-studies](https://github.com/OmarArgenes/engineering-case-studies)**.
 
 | Area | What I do | Stack |
 |---|---|---|
@@ -70,6 +70,7 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **[Debugging for Instances (DFI)](https://github.com/OmarArgenes/debugging-for-instances)** | Methodological framework for AI-assisted, evidence-based software diagnosis — falsifiable hypotheses, controlled instrumentation and verified fixes | Methodology · JSON Schema · JS | [Paper (Zenodo)](https://zenodo.org/records/22986103) |
+| **[Engineering Case Studies](https://github.com/OmarArgenes/engineering-case-studies)** | Public-safe write-ups of professional work: Angular migration, design systems, B2B product frontend and a production incident | Angular · SSR · PHP-FPM | — |
 | **[Automotive Workshop System](https://github.com/OmarArgenes/mecanica-automotriz-web)** | Management system for an automotive repair shop: customers, vehicles, intake inspection, work orders, parts requests and printable documents | Angular 19 · TypeScript · Supabase · PostgreSQL · Netlify | [Live](https://zcanedo.netlify.app/) |
 
 ---
