@@ -54,13 +54,13 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 ### 🏢 Current work at pirAMide Informatik
 
 > Source code for this work is private because it belongs to my employer and its clients.
-> The descriptions below cover my role and the type of work only. Detailed, public-safe write-ups: **[engineering-case-studies](https://github.com/OmarArgenes/engineering-case-studies)**.
+> Each project below links to a showcase repository with scope, architecture and my role — no source code. More write-ups: **[engineering-case-studies](https://github.com/OmarArgenes/engineering-case-studies)**.
 
 | Area | What I do | Stack |
 |---|---|---|
-| **Angular migration** | Migrating a corporate website to a modern Angular application, preserving public URLs and visual baseline while improving maintainability, performance, accessibility and SEO | Angular 22 · SSR · TypeScript · SCSS · Vitest |
-| **Frontend modernization** | Redesign work: design system with tokens, responsive layouts, documented quality standards | Angular · TypeScript · SCSS |
-| **Business platform frontend** | Public website and shared design-system library for a B2B business platform | Angular · SSR · ng-packagr |
+| **[Angular migration](https://github.com/OmarArgenes/piramide-angular-migration-showcase)** | Migrating a corporate website to a modern Angular application, preserving public URLs and visual baseline while improving maintainability, performance, accessibility and SEO | Angular 22 · SSR · TypeScript · SCSS · Vitest |
+| **[Modern website redesign](https://github.com/OmarArgenes/piramide-modern-website-showcase)** | Redesign work: design system with tokens, responsive layouts, documented quality standards | Angular · TypeScript · SCSS |
+| **[Business Manager platform](https://github.com/OmarArgenes/bm-platform-showcase)** | Product website, shared UI library and CRM interface concept for the company's business-management platform | Angular · SSR · ng-packagr |
 | **WordPress development & operations** | Development, maintenance and support of **15+ client websites and web apps** across staging and production | WordPress · WooCommerce · BuddyBoss · LearnDash · PHP · JS |
 | **Web operations** | Staging → production deployments, backups, SSL, caching, permissions and production incident resolution | Debian · Plesk · Nginx · PHP-FPM |
 
