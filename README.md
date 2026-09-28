@@ -36,7 +36,8 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 | **Design systems** | Shared UI libraries built with `ng-packagr` · SCSS design tokens · responsive layouts |
 | **Quality** | TypeScript strict mode · Vitest · Prettier · accessibility targets (WCAG 2.2 AA) · Core Web Vitals targets |
 | **Data** | RxJS services · REST APIs · Supabase (PostgreSQL + Auth) |
-| **UI libraries** | PrimeNG · Bootstrap |
+| **UI libraries** | PrimeNG · PrimeFlex · Bootstrap |
+| **i18n** | ngx-translate — multilingual interfaces and language selectors |
 
 ---
 
@@ -66,6 +67,57 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 
 ---
 
+### 🤝 Verified contributions to team repositories
+
+> Source code remains in the official repositories. Everything below links to public, merged pull requests — no code is redistributed here.
+
+#### pirAMide Informatik GmbH — IWS Manager
+[`Piramide-Informatik/iws-manager-webapp`](https://github.com/Piramide-Informatik/iws-manager-webapp) · **22 merged pull requests** · March – June 2025
+
+Enterprise management web application. I built CRUD screens, data tables and navigation for the frontend.
+
+**Stack:** Angular 19 · TypeScript · PrimeNG · Reactive Forms · ngx-translate · PrimeFlex
+
+**What I worked on:** 10 master-data screens (users, roles, absence types, holidays, funding programs, IWS staff, commissions, teams, countries, costs) · work contracts, invoices and subcontracts modules · data tables with sorting, pagination, column filters and multiselect filters · form validation · multilingual UI and language selector · grouped master-data navigation menu
+
+| PR | Contribution |
+|---|---|
+| [#16](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/16) | Work contracts table — PrimeNG table with sorting, global filter and dialogs |
+| [#26](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/26) | Translation support and language selector (ngx-translate) |
+| [#47](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/47) | Invoices table and improved language selection panel |
+| [#55](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/55) | Subcontracting details — Reactive Forms with validation and related tables |
+| [#95](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/95) | Grouped master-data navigation menu |
+| [#101](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/101) | User management UI |
+| [#139](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/139) | Funding programs UI |
+| [#155](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/155) | IWS staff UI |
+| [#179](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/179) | Countries, costs, teams and commissions screens |
+| [#396](https://github.com/Piramide-Informatik/iws-manager-webapp/pull/396) | Scrolling fix applied across all data tables |
+
+#### LabDev INFSIS (UMSS) — Social platform
+Team project of the Department of Informatics and Systems, Universidad Mayor de San Simón · November 2024 – May 2025
+
+**Frontend** · [`pagina-web-social-frontend`](https://github.com/labdev-infsis/pagina-web-social-frontend) · **8 merged PRs** · Angular 17 · TypeScript · Bootstrap
+
+| PR | Contribution |
+|---|---|
+| [#21](https://github.com/labdev-infsis/pagina-web-social-frontend/pull/21) | Commenting on posts |
+| [#33](https://github.com/labdev-infsis/pagina-web-social-frontend/pull/33) | Emoji reactions on comments |
+| [#50](https://github.com/labdev-infsis/pagina-web-social-frontend/pull/50) | Replies UX — descending order, auto-focus on reply, show more / show less, consistent date format |
+| [#53](https://github.com/labdev-infsis/pagina-web-social-frontend/pull/53) | Replying to comments, including nested replies |
+| [#55](https://github.com/labdev-infsis/pagina-web-social-frontend/pull/55) | Reactions component and refactor of comments and replies |
+
+**Backend** · [`pagina-web-social-backend`](https://github.com/labdev-infsis/pagina-web-social-backend) · **6 merged PRs** · Java 17 · Spring Boot 3 · Spring Data JPA
+
+| PR | Contribution |
+|---|---|
+| [#23](https://github.com/labdev-infsis/pagina-web-social-backend/pull/23) | Search posts by text — controller, service, repository query, DTO and mapper |
+| [#60](https://github.com/labdev-infsis/pagina-web-social-backend/pull/60) | Paginated post listing in batches of 10 (`Pageable`) |
+| [#62](https://github.com/labdev-infsis/pagina-web-social-backend/pull/62) | Posts ordered by date with pagination |
+| [#66](https://github.com/labdev-infsis/pagina-web-social-backend/pull/66) | Replies API and pagination |
+| [#68](https://github.com/labdev-infsis/pagina-web-social-backend/pull/68) | Emoji reactions on replies — controller, service, repository, DTOs and mappers |
+
+---
+
 ### ⭐ Featured projects
 
 | Project | Description | Stack | Links |
@@ -92,6 +144,8 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 
 **Backend & data** &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000?style=flat-square&logo=json&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -126,7 +180,7 @@ I have worked with Angular 17, 19 and 22 across company and personal projects.
 
 **IT foundations:** 10+ years of hardware, software and network support — Windows/Linux, LAN/Wi-Fi, routers, peripherals, data recovery, malware removal and end-user support.
 
-**Working knowledge:** Spring Boot · React · Node.js · Laravel · Docker · Python · Power BI
+**Working knowledge:** React · Node.js · Laravel · Docker · Python · Power BI
 
 ---
 
