@@ -113,7 +113,7 @@ Team project of the Department of Informatics and Systems, Universidad Mayor de 
 | [#23](https://github.com/labdev-infsis/pagina-web-social-backend/pull/23) | Search posts by text — controller, service, repository query, DTO and mapper |
 | [#60](https://github.com/labdev-infsis/pagina-web-social-backend/pull/60) | Paginated post listing in batches of 10 (`Pageable`) |
 | [#62](https://github.com/labdev-infsis/pagina-web-social-backend/pull/62) | Posts ordered by date with pagination |
-| [#66](https://github.com/labdev-infsis/pagina-web-social-backend/pull/66) | Replies API and pagination |
+| [#66](https://github.com/labdev-infsis/pagina-web-social-backend/pull/66) | Nested replies — self-referencing JPA relationship, JPQL query for top-level replies and reply-tree building |
 | [#68](https://github.com/labdev-infsis/pagina-web-social-backend/pull/68) | Emoji reactions on replies — controller, service, repository, DTOs and mappers |
 
 ---
