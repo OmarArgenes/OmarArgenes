@@ -1,9 +1,10 @@
-<h1 align="center">Omar Argenes Quispe</h1>
-
 <p align="center">
-  <b>Web Systems Engineer</b> · Angular · PHP · WordPress · Linux in production · AI-assisted engineering<br />
-  I build web systems, ship them to production and keep them running.
+  <a href="https://omar-argenes.netlify.app/">
+    <img src="assets/banner.svg" alt="Omar Argenes Quispe — Web Systems Engineer · Angular · PHP · WordPress · Linux in production · AI-assisted debugging" width="100%" />
+  </a>
 </p>
+
+<p align="center"><b>I build web systems, ship them to production and keep them running.</b></p>
 
 <p align="center">
   <a href="https://omar-argenes.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-omar--argenes.netlify.app-5ee7ff?style=flat-square&logo=netlify&logoColor=white" /></a>
