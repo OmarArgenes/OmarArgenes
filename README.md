@@ -124,6 +124,7 @@ Team project of the Department of Informatics and Systems, Universidad Mayor de 
 |---|---|---|---|
 | **[Debugging for Instances (DFI)](https://github.com/OmarArgenes/debugging-for-instances)** | Methodological framework for AI-assisted, evidence-based software diagnosis — falsifiable hypotheses, controlled instrumentation and verified fixes | Methodology · JSON Schema · JS | [Paper (Zenodo)](https://zenodo.org/records/22986103) |
 | **[Engineering Case Studies](https://github.com/OmarArgenes/engineering-case-studies)** | Public-safe write-ups of professional work: Angular migration, design systems, B2B product frontend and a production incident | Angular · SSR · PHP-FPM | — |
+| **[Personal Portfolio](https://github.com/OmarArgenes/portfolio-showcase)** | Bilingual portfolio hand-built with a WebGL aurora background, a 3D globe on canvas and animated SVG diagrams | HTML · CSS · Vanilla JS · WebGL | [Live](https://omar-argenes.netlify.app/) |
 | **[Automotive Workshop System](https://github.com/OmarArgenes/mecanica-automotriz-web)** | Management system for an automotive repair shop: customers, vehicles, intake inspection, work orders, parts requests and printable documents | Angular 19 · TypeScript · Supabase · PostgreSQL · Netlify | [Live](https://zcanedo.netlify.app/) |
 
 ---
