@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://omar-argenes.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-omar--argenes.netlify.app-5ee7ff?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/omar-argenes-quispe"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-omar--argenes--quispe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omar-argenes-quispe-q-9b4803105"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-omar--argenes--quispe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0009-7371-1384"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0009--7371--1384-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
   <a href="mailto:argenes77@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-argenes77%40gmail.com-8b7bff?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
